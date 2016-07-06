@@ -1,0 +1,5 @@
+C:\Users\TRINHTUNG\Desktop\03.Bai Thuc Hanh ASPNET-MVC3 Models And Data Access\Begin\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\TRINHTUNG\Desktop\03.Bai Thuc Hanh ASPNET-MVC3 Models And Data Access\Begin\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\TRINHTUNG\Desktop\03.Bai Thuc Hanh ASPNET-MVC3 Models And Data Access\Begin\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+C:\Users\TRINHTUNG\Desktop\03.Bai Thuc Hanh ASPNET-MVC3 Models And Data Access\Begin\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\TRINHTUNG\Desktop\03.Bai Thuc Hanh ASPNET-MVC3 Models And Data Access\Begin\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
